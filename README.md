@@ -1,6 +1,6 @@
 ## Command Line Utility for managing To-Dos
  
-Developed as a part of the application process for [CoronaSafe Engineering fellowship] 2021.
+Developed  todo.py file as a part of the application process for [CoronaSafe Engineering fellowship] 2021.
 
 Here's a sample video which shows the working:
 [![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
